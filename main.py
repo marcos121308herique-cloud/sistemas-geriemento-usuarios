@@ -1,4 +1,3 @@
-
 usuarios = {
     "admin": "12345"
 }
@@ -53,7 +52,6 @@ def remover():
     else:
         print("Usuário não encontrado.")
 
-# Programa principal
 if login():
 
     while True:
